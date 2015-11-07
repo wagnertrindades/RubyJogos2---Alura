@@ -1,8 +1,6 @@
 desenvolvedor
 rubista
 programador
-surfista
-leash
-monstro
-trincadao
-gigante
+rails
+python
+django
